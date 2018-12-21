@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Issues-GT-/source/repos/Asteroids/Asteroids/Content/asteroids2.png</File>
+    <File>C:/Users/Issues-GT-/source/repos/Asteroids/Asteroids/Content/astroid1.png</File>
+    <File>C:/Users/Issues-GT-/source/repos/Asteroids/Asteroids/Content/astroid2.png</File>
+    <File>C:/Users/Issues-GT-/source/repos/Asteroids/Asteroids/Content/astroid3.png</File>
+    <File>C:/Users/Issues-GT-/source/repos/Asteroids/Asteroids/Content/astroid4.png</File>
+    <File>C:/Users/Issues-GT-/source/repos/Asteroids/Asteroids/Content/astroid5.png</File>
+    <File>C:/Users/Issues-GT-/source/repos/Asteroids/Asteroids/Content/astroid6.png</File>
+    <File>C:/Users/Issues-GT-/source/repos/Asteroids/Asteroids/Content/Bullet.png</File>
+    <File>C:/Users/Issues-GT-/source/repos/Asteroids/Asteroids/Content/Score.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

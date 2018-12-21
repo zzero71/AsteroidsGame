@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroids", "Asteroids\Asteroids.csproj", "{0965FC25-0622-423D-B2BA-9A7A64A93E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0965FC25-0622-423D-B2BA-9A7A64A93E91}.Debug|x86.ActiveCfg = Debug|x86
+		{0965FC25-0622-423D-B2BA-9A7A64A93E91}.Debug|x86.Build.0 = Debug|x86
+		{0965FC25-0622-423D-B2BA-9A7A64A93E91}.Release|x86.ActiveCfg = Release|x86
+		{0965FC25-0622-423D-B2BA-9A7A64A93E91}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E1D706-A899-4B42-809E-33A6A3033B5A}
+	EndGlobalSection
+EndGlobal
